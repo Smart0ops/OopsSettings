@@ -1,0 +1,7 @@
+name: OopsSettings
+version: '1.0'
+main: me.smartoops.oopssettings.Main
+prefix: OopsSettings
+authors: [ SmartOops ]
+description: Плагин на запрет наких-либо интерактивных действий для игрока.
+website: vk.com/smartoops
